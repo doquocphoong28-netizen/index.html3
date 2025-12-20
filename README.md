@@ -246,9 +246,9 @@
 
 Trân trọng kính mời ${userName} đến tham dự buổi lễ kỷ yếu của tôi.
 
-Sự hiện diện của ${userName} sẽ là niềm vinh dự và là món quà tinh thần vô cùng ý nghĩa.
-Nhằm lưu giữ những khoảnh khắc đẹp nhất của tuổi học trò trước khi chia tay mái trường thân yêu.
-Để cùng nhau chụp ảnh, cười hết mình và lưu lại những ký ức không thể quên.`;
+Có ${userName} bên cạnh chắc chắn buổi kỷ yếu sẽ trọn vẹn hơn rất nhiều.
+Để cùng nhau lưu lại những khoảnh khắc đẹp của tuổi học trò – khi mọi thứ vẫn còn trong veo và đáng nhớ.
+Cùng chụp ảnh, cùng cười, và giữ lại những ký ức mà sau này nghĩ về vẫn thấy mỉm cười.`;
 
         document.getElementById(
           "invite"
@@ -304,5 +304,6 @@ Nhằm lưu giữ những khoảnh khắc đẹp nhất của tuổi học trò 
     </footer>
   </body>
 </html>
+
 
 
