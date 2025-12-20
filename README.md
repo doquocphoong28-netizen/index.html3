@@ -263,7 +263,7 @@ Cùng chụp ảnh, cùng cười, và giữ lại những ký ức mà sau này
         if (textIndex < fullText.length) {
           box.textContent += fullText.charAt(textIndex);
           textIndex++;
-          setTimeoutt;
+          setTimeout(typeEffect, 70);
         }
       }
     </script>
@@ -304,6 +304,7 @@ Cùng chụp ảnh, cùng cười, và giữ lại những ký ức mà sau này
     </footer>
   </body>
 </html>
+
 
 
 
