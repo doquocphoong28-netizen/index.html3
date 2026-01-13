@@ -216,7 +216,7 @@
     </div>
 
     <img
-      src="img/z7317242070756_6ee59e5429d012f3dd053c8af7d958af.jpg"
+      src="img/z7299226259018_af32da69873465e2daab8edfe2757e55.jpg"
       class="avatar"
     />
 
@@ -339,6 +339,7 @@ Hóa ra năm ấy… đã có nhau..`;
     </script>
   </body>
 </html>
+
 
 
 
